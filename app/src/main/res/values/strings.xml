@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstTaskAddRv</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">LastName</string>
+    <string name="Age">Age</string>
+    <string name="Add">Add (3)</string>
+</resources>
